@@ -1,4 +1,6 @@
 # MountainProject_Wrap
+Rating code LINK: https://www.mountainproject.com/forum/topic/116208707/rating-code-sorting-ticks#:~:text=The%20Rating%20Codes%20are%20a,or%20V%20grades%2C%20etc).
+
 Creating a wrapped feature for climbers using Mountain Project
 
 1. Clean Data
