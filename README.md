@@ -2,6 +2,10 @@
 Creating a wrapped feature for climbers using Mountain Project
 
 1. Clean Data
+    - Drop unnecessary columns
+        - Your rating
+        - Your stars
+
     - Ratings Data (Oscar)
         - Create dataframe for bouldering vs others first
         - Separate numerical and alphabetical metrics into their own columns
