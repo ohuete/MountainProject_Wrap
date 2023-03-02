@@ -3,33 +3,16 @@ Rating code LINK: https://www.mountainproject.com/forum/topic/116208707/rating-c
 
 Creating a wrapped feature for climbers using Mountain Project
 
-1. Clean Data
+* 1. Clean Data *
     - Drop unnecessary columns
         - Your rating
-        - Your stars
+        - Your stars 
 
     - Ratings Data (Oscar)
         - Create dataframe for bouldering vs others first
         - Separate numerical and alphabetical metrics into their own columns
         - Convert numerical datatypes to integer
 
-def(ratings)
-a=1
-b=2
-c=3
-d=4
-
-Ratings
-4.1b
-
-Ratings Num | Ratings Alp
-4.1              b
-
-Ratings Num | Converted Ratings Alp
-4.1              2
-
-Ratings Num
-4.12
 
 -> Output is "Your most difficult climb was a 4.1b"
 
